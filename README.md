@@ -83,10 +83,10 @@
 <!-- GitHub Stats -->
 ![Nishant-Pandey-2004's Stats](https://github-readme-stats.vercel.app/api?username=rahul9415&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
 ![Nishant-Pandey-2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul9415&theme=vision-friendly-dark&hide_border=true)
-![Nishant-Pandey-2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Pandey-2004&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+![Nishant-Pandey-2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul9415&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Nishant-Pandey-2004 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?usernamerahul9415&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="rahul9415 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?usernamerahul9415&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
