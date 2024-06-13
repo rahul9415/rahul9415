@@ -7,14 +7,13 @@
 <br>
 <br>
 <br>
-<img align="right" alt="coding" width="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rahul9415&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
 ## About Me
-
+<img align="right" alt="coding" width="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 - 👨‍💻 You can find all of my projects on [GitHub](https://github.com/rahul9415).
 
 - 💬 Feel free to ask me about **HTML, CSS, Bootstrap, and competitive programming**.
