@@ -76,17 +76,12 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)](#)
 
-
-## 💻 GitHub Profile Stats
-
-
 <!-- GitHub Stats -->
-![Nishant-Pandey-2004's Stats](https://github-readme-stats.vercel.app/api?username=rahul9415&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
-![Nishant-Pandey-2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul9415&theme=vision-friendly-dark&hide_border=true)
-![Nishant-Pandey-2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul9415&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rahul9415&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+![Rahul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul9415&theme=vision-friendly-dark&hide_border=true)
+![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul9415&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="rahul9415 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?usernamerahul9415&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Nishant-Pandey-2004 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Nishant-Pandey-2004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
-
