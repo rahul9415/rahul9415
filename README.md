@@ -23,8 +23,8 @@
 
 ## 🤝Connect with Me
 
-[![Linkedin: nishant](https://img.shields.io/badge/-nishant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-yadav-4b1b29266/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/rahul-yadav-4b1b29266/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub followers](https://img.shields.io/github/followers/Nishant-Pandey-2004?label=Follow&style=social)](https://github.com/rahul9415)
+[![Linkedin: Rahul](https://img.shields.io/badge/-nishant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-yadav-4b1b29266/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/rahul-yadav-4b1b29266/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub followers](https://img.shields.io/github/followers/rahul9415?label=Follow&style=social)](https://github.com/rahul9415)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulyadavtwin@gmail.com)](mailto:rahulyadavtwin@gmail.com)
 
 
@@ -83,5 +83,5 @@
 
 <!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Nishant-Pandey-2004 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Nishant-Pandey-2004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Rahul Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Nishant-Pandey-2004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
